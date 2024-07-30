@@ -1,17 +1,4 @@
-## Neymar melhor do mundo
+### **Bem Vindo ao Meu Perfil** 🐒
+Meu Nome é Weslley
 
-
-**weslysnts111470/weslysnts111470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **Em Nada**
-- 🌱 I’m currently learning **Alguns Codigos**
-- 👯 I’m looking to collaborate on **Em nada** :Apple:
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 
+Estou Estudando no Alura
