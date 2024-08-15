@@ -7,4 +7,5 @@ Estou me desenvolvendo na linguagem Javascript
 
 Utilizo espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://media1.tenor.com/m/soR5YyqfuksAAAAC/messi-vs-ronaldo-messi-kiss.gif)
+
+<img src="https://media.tenor.com/kCxPlOI0PoUAAAAi/shopee-dance.gif" alt="a man in an orange shirt and white shorts is standing in front of two shopping bags with the letter s on them"/>![Uploading image.png…]()
