@@ -9,3 +9,8 @@ Utilizo espaço para minha organização e compartilhamento dos meus projetos de
 
 
 <img src="https://media.tenor.com/kCxPlOI0PoUAAAAi/shopee-dance.gif" alt="a man in an orange shirt and white shorts is standing in front of two shopping bags with the letter s on them"/>![Uploading image.png…]()
+
+a man in a white soccer uniform is standing on a soccer field
+
+a soccer player wearing a jersey that says rokute on it
+● GIF SD
